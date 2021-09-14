@@ -3,13 +3,13 @@ entries:
   camel-cloud-bridge:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-09-13T16:20:34.764959-04:00"
+    created: "2021-09-14T10:43:55.704894-04:00"
     description: A Helm chart for connecting your Kubernetes cluster to the Jetic
       Platform
     digest: a34dbd796862a1ba4ad8009b39f41524a74e0d1d35f8046393b51eb5e8a127e4
     name: camel-cloud-bridge
     type: application
     urls:
-    - https://github.com/DataGreat/DataGreat.github.io/camel-cloud-bridge-0.2.tgz
-    version: "0.2"
-generated: "2021-09-13T16:20:34.764274-04:00"
+    - https://datagreat.github.io/camel-cloud-bridge/charts/camel-cloud-bridge-0.2.tgz
+    version: 0.2
+generated: "2021-09-14T10:43:55.704168-04:00"
